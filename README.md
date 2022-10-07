@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sairam Kaushik</h1>
-<h3 align="center">A passionate Ethical Hacker and Web Developer</h3>
+<h3 align="center">A passionate Web Developer and Cyber Security Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-ram-kaushik" alt="sai-ram-kaushik" /></a> </p>
 
